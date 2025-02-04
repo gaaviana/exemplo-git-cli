@@ -10,3 +10,4 @@
 - git log                   exibe o histórico de commits no repositório
 - git remote add link       adiciona o repositório remoto como referência para o local
 - git push origin main      executa o push enviando as alterações para o repositorio remoto (origin)
+- git pull origin main      executa o pull baixando as alteraçõs para o repositório local
